@@ -99,7 +99,7 @@ Built automated HubSpot workflows to organize leads, trigger actions, and improv
 ![HubSpot Workflow Automation Setup](HubSpot%20Workflow%20Automation%20Setup.png)
 
 ## 4. Sales Follow Up Email Automation
-![Sales Follow Up Email Automation](Sales%20Follow%20Up%20Email%20Automation.webp)
+![Sales Follow-Up Email Automation](Sales%20Follow-Up%20Email%20Automation.png)
 
 ## 5. CRM Data Cleaning Property Management
 ![CRM Data Cleaning & Property Management](CRM%20Data%20Cleaning%20%26%20Property%20Management.png)
