@@ -105,7 +105,7 @@ Built automated HubSpot workflows to organize leads, trigger actions, and improv
 ![CRM Data Cleaning Property Management](CRM%20Data%20Cleaning%20Property%20Management.webp)
 
 ## 6. HubSpot Reporting Dashboard Analytics
-![HubSpot Reporting Dashboard Analytics](HubSpot%20Reporting%20Dashboard%20Analytics.webp)
+![HubSpot Reporting Dashboard & Analytics](HubSpot%20Reporting%20Dashboard%20%26%20Analytics.png)
 
 
 # 👨‍💻 About Me
