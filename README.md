@@ -93,7 +93,7 @@ Built automated HubSpot workflows to organize leads, trigger actions, and improv
 ![HubSpot CRM Lead Pipeline Automation](HubSpot%20CRM%20Lead%20Pipeline%20Automation.webp)
 
 ## 2. Automated Lead Capture Contact Management
-![Automated Lead Capture Contact Management](Automated%20Lead%20Capture%20Contact%20Management.webp)
+![Automated Lead Capture & Contact Management](Automated%20Lead%20Capture%20%26%20Contact%20Management.png)
 
 ## 3. HubSpot Workflow Automation Setup
 ![HubSpot Workflow Automation Setup](HubSpot%20Workflow%20Automation%20Setup.webp)
