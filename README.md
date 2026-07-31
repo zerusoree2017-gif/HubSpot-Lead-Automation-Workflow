@@ -96,7 +96,7 @@ Built automated HubSpot workflows to organize leads, trigger actions, and improv
 ![Automated Lead Capture & Contact Management](Automated%20Lead%20Capture%20%26%20Contact%20Management.png)
 
 ## 3. HubSpot Workflow Automation Setup
-![HubSpot Workflow Automation Setup](HubSpot%20Workflow%20Automation%20Setup.webp)
+![HubSpot Workflow Automation Setup](HubSpot%20Workflow%20Automation%20Setup.png)
 
 ## 4. Sales Follow Up Email Automation
 ![Sales Follow Up Email Automation](Sales%20Follow%20Up%20Email%20Automation.webp)
