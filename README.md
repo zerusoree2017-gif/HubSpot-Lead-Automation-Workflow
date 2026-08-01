@@ -114,7 +114,6 @@ My focus is helping companies reduce manual work, improve customer follow-up, an
 
 **Upwork**
 https://www.upwork.com/freelancers/~010472b5935fc59690
-
 **Fiverr**
 https://www.fiverr.com/zerihunabera413
 
