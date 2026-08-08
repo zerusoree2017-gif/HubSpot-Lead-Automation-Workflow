@@ -39,6 +39,7 @@ This workflow demonstrates how a lead can move through a structured CRM process 
 **New Lead → Contact Record → Qualification → Deal / Pipeline Stage**
 
 **Shows:** How incoming leads can be organized and moved through a structured HubSpot sales pipeline.
+
 ![HubSpot CRM Lead Pipeline Automation](HubSpot%20CRM%20Lead%20Pipeline%20Automation.png)
 
 ### 2️⃣ Automated Lead Capture & Contact Management
@@ -46,6 +47,7 @@ This workflow demonstrates how a lead can move through a structured CRM process 
 **Lead Source → HubSpot Contact → Property Mapping → CRM Record**
 
 **Shows:** Lead information being captured and organized into structured HubSpot contact records.
+
 ![Automated Lead Capture & Contact Management](Automated%20Lead%20Capture%20%26%20Contact%20Management.png)
 ---
 
@@ -54,6 +56,7 @@ This workflow demonstrates how a lead can move through a structured CRM process 
 **Enrollment Trigger → Conditions → Actions → Automated Outcome**
 
 **Shows:** The workflow logic used to determine what happens after a lead enters the automation.
+
 ![HubSpot Workflow Automation Setup](HubSpot%20Workflow%20Automation%20Setup.png)
 ---
 
@@ -62,6 +65,7 @@ This workflow demonstrates how a lead can move through a structured CRM process 
 **Qualified Lead → Workflow Condition → Follow-Up Action → Sales Communication**
 
 **Shows:** How automated follow-up actions can help sales teams respond consistently to qualified prospects.
+
 ![Sales Follow-Up Email Automation](Sales%20Follow-Up%20Email%20Automation.png)
 ---
 
@@ -69,7 +73,9 @@ This workflow demonstrates how a lead can move through a structured CRM process 
 **Live Flow:**
 **CRM Data → Property Review → Standardization → Organized Contact Record**
 
-**Shows:** Practical CRM data organization and property management for cleaner, more reliable records.
+**Shows:
+** Practical CRM data organization and property management for cleaner, more reliable records.
+
 ![CRM Data Cleaning & Property Management](CRM%20Data%20Cleaning%20%26%20Property%20Management.png)
 ---
 
@@ -77,7 +83,9 @@ This workflow demonstrates how a lead can move through a structured CRM process 
 **Live Flow:**
 **CRM Activity → Pipeline Data → Metrics → Dashboard → Sales Insight**
 
-**Shows:** CRM information being transformed into useful sales visibility and reporting.
+**Shows:** 
+CRM information being transformed into useful sales visibility and reporting.
+
 ![HubSpot Reporting Dashboard & Analytics](HubSpot%20Reporting%20Dashboard%20%26%20Analytics.png)
 ---
 
@@ -94,11 +102,13 @@ This workflow is designed to help businesses:
 * ✅ Improve sales pipeline visibility
 
 HubSpot currently supports workflow actions that can send CRM data to Google Sheets, including creating or updating rows and mapping HubSpot properties to spreadsheet columns.
+
 ---
 
 ## 🎯 Ideal Use Cases
 
 **HubSpot CRM Automation | Lead Management | Lead Capture | Lead Routing | Sales Pipeline Automation | Follow-Up Automation | CRM Data Cleaning | Google Sheets Integration | Workflow Automation | Sales Operations**
+
 ---
 
 ## 🧩 Challenge → Solution
