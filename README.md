@@ -49,6 +49,7 @@ This workflow demonstrates how a lead can move through a structured CRM process 
 **Shows:** Lead information being captured and organized into structured HubSpot contact records.
 
 ![Automated Lead Capture & Contact Management](Automated%20Lead%20Capture%20%26%20Contact%20Management.png)
+
 ---
 
 ### 3️⃣ HubSpot Lead Sync, Tracking Dashboard & Automation Results
@@ -58,6 +59,7 @@ This workflow demonstrates how a lead can move through a structured CRM process 
 **Shows:** The workflow logic used to determine what happens after a lead enters the automation.
 
 ![HubSpot Lead Sync Lead Tracking Dashboard and Automation Results](HubSpot%20Lead%20Sync%20Lead%20tracking%20dashboard%20and%20Automation%20results.png)
+
 ---
 
 ### 4️⃣ Sales Follow-Up Email Automation
@@ -67,6 +69,7 @@ This workflow demonstrates how a lead can move through a structured CRM process 
 **Shows:** How automated follow-up actions can help sales teams respond consistently to qualified prospects.
 
 ![Sales Follow-Up Email Automation](Sales%20Follow-Up%20Email%20Automation.png)
+
 ---
 
 ### 5️⃣ CRM Data Cleaning & Property Management
