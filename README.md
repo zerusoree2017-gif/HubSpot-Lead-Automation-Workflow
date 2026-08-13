@@ -77,6 +77,7 @@ This workflow demonstrates how a lead can move through a structured CRM process 
 ** Practical CRM data organization and property management for cleaner, more reliable records.
 
 ![CRM Data Cleaning & Property Management](CRM%20Data%20Cleaning%20%26%20Property%20Management.png)
+
 ---
 
 ### 6️⃣ HubSpot Reporting Dashboard & Analytics
