@@ -57,8 +57,6 @@ This workflow demonstrates how a lead can move through a structured CRM process 
 
 **Shows:** The workflow logic used to determine what happens after a lead enters the automation.
 
-![HubSpot Workflow Automation Setup](HubSpot%20Workflow%20Automation%20Setup.png)
-
 ![HubSpot Lead Sync, Tracking Dashboard & Automation Results](HubSpot%20Lead%20Sync%2C%20Lead%20Tracking%20Dashboard%20and%20Automation%20Results.png)
 ---
 
