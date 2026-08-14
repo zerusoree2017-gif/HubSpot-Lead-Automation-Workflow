@@ -34,13 +34,15 @@ This workflow demonstrates how a lead can move through a structured CRM process 
 
 # 📸 Live HubSpot Workflow Demonstration
 
-### 1️⃣ HubSpot CRM Lead Pipeline Automation
+### 1️⃣ HubSpot Lead Sync, Tracking Dashboard & Automation Results
 **Live Flow:**
-**New Lead → Contact Record → Qualification → Deal / Pipeline Stage**
+**Enrollment Trigger → Conditions → Actions → Automated Outcome**
 
-**Shows:** How incoming leads can be organized and moved through a structured HubSpot sales pipeline.
+**Shows:** The workflow logic used to determine what happens after a lead enters the automation.
 
-![HubSpot CRM Lead Pipeline Automation](HubSpot%20CRM%20Lead%20Pipeline%20Automation.png)
+![HubSpot Lead Sync Lead Tracking Dashboard and Automation Results](HubSpot%20Lead%20Sync%20Lead%20tracking%20dashboard%20and%20Automation%20results.png)
+
+---
 
 ### 2️⃣ Automated Lead Capture & Contact Management
 **Live Flow:**
@@ -52,13 +54,13 @@ This workflow demonstrates how a lead can move through a structured CRM process 
 
 ---
 
-### 3️⃣ HubSpot Lead Sync, Tracking Dashboard & Automation Results
+### 3️⃣ HubSpot CRM Lead Pipeline Automation
 **Live Flow:**
-**Enrollment Trigger → Conditions → Actions → Automated Outcome**
+**New Lead → Contact Record → Qualification → Deal / Pipeline Stage**
 
-**Shows:** The workflow logic used to determine what happens after a lead enters the automation.
+**Shows:** How incoming leads can be organized and moved through a structured HubSpot sales pipeline.
 
-![HubSpot Lead Sync Lead Tracking Dashboard and Automation Results](HubSpot%20Lead%20Sync%20Lead%20tracking%20dashboard%20and%20Automation%20results.png)
+![HubSpot CRM Lead Pipeline Automation](HubSpot%20CRM%20Lead%20Pipeline%20Automation.png)
 
 ---
 
