@@ -44,23 +44,24 @@ This workflow demonstrates how a lead can move through a structured CRM process 
 
 ---
 
-### 2️⃣ Automated Lead Capture & Contact Management
-**Live Flow:**
-**Lead Source → HubSpot Contact → Property Mapping → CRM Record**
-
-**Shows:** Lead information being captured and organized into structured HubSpot contact records.
-
-![Automated Lead Capture & Contact Management](Automated%20Lead%20Capture%20%26%20Contact%20Management.png)
-
----
-
-### 3️⃣ ### HubSpot CRM,  Filter or Router  and Google Sheets
+### 2️⃣ HubSpot CRM,  Filter or Router  and Google Sheets
 **Live Flow:**
 **Hubsot CRM → Router → Google sheets**
 
 **Shows:** Automatically routes and syncs lead data for organized tracking, reporting, and follow-up.
 
 ![HubSpot CRM, Filter or Router & Google Sheets](HubSpot%20CRM%2C%20%20Filter%20or%20Router%20%20and%20Google%20Sheets.png)
+
+
+---
+
+### 3️⃣ Automated Lead Capture & Contact Management
+**Live Flow:**
+**Lead Source → HubSpot Contact → Property Mapping → CRM Record**
+
+**Shows:** Lead information being captured and organized into structured HubSpot contact records.
+
+![Automated Lead Capture & Contact Management](Automated%20Lead%20Capture%20%26%20Contact%20Management.png)
 
 ---
 
