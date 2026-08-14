@@ -54,13 +54,13 @@ This workflow demonstrates how a lead can move through a structured CRM process 
 
 ---
 
-### 3️⃣ HubSpot CRM Lead Pipeline Automation
+### 3️⃣ ### HubSpot CRM,  Filter or Router  and Google Sheets
 **Live Flow:**
-**New Lead → Contact Record → Qualification → Deal / Pipeline Stage**
+**Hubsot CRM → Router → Google sheets**
 
-**Shows:** How incoming leads can be organized and moved through a structured HubSpot sales pipeline.
+**Shows:** Automatically routes and syncs lead data for organized tracking, reporting, and follow-up.
 
-![HubSpot CRM Lead Pipeline Automation](HubSpot%20CRM%20Lead%20Pipeline%20Automation.png)
+![HubSpot CRM, Filter or Router & Google Sheets](HubSpot%20CRM%2C%20%20Filter%20or%20Router%20%20and%20Google%20Sheets.png)
 
 ---
 
